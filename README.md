@@ -1,5 +1,15 @@
-## Hi there 👋
+## Jackson Baimel👋
 
+Hey there!! I'm Jackson Baimel, A sophmore Computer Science & ITWS (Information Technology and Web Science) Dual at RPI. With experience in Azure, Cloud and Web Development, Reverse Engineering, Symbolic Execution and more I'm all about trying new things and being able connect people from different diciplines, working together under an interdisciplinary umbrella. From my internships to my projects and clubs I'm always looking to learn more and contribute to exciting projects.
+
+# About me
+- **Name:** Jackson Baimel
+- **Education:** Sophmore CS & ITWS student at Rensselaer Polytechnic Institute.
+- **GPA:** 3.48
+- **In-Major GPA (CS+ITWS Classes):** 3.83
+- **Experience:**
+  1. Newtown Forest Association (August 2024 - Present) Utilizing Expo (An offshoot of React Native) and Cloud Firestore to create an inventory and property managament tool. Looking to release onto the app store this coming Spring.
+  2. REI Technology (April 2021 - October 2021) Led product research and development on how REI could use Azure's virtual machines within a virtual desktop infrastructure.
 <!--
 **BastedEggsRYummy/BastedEggsRYummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
