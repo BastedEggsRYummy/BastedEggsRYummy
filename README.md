@@ -17,11 +17,11 @@ Hey there!! I'm Jackson Baimel, A sophmore Computer Science & ITWS (Information 
 - **Reverse Engineering** - Through clubs like RPISEC I'm always looking to get better at all things cybersecurity. Right now I'm focusing in on Reverse Engineering and Symbolic Execution. That being said, I love anything under the CTF umbrella and learn new things every time I do a challenge, and can't wait to learn more.
 
 ## Projects 💻
-- **RECS (Rensselaer Electronic Calandar System)** - Working in a small group to create a calandar system for RPI clubs and organizations. Currently in the process of presenting the project to the greater RPI community.
+- **RECS (Rensselaer Electronic Calandar System)** - Working in a small group to create a calandar system for RPI clubs and organizations.
 - **Fresh n' Clean** - Creating a Uber-for-laundry service via a web app. Creating with a 6 person group for ITWS 2100 (Web Systems Development)
-- **AI & Solutions** - Creating a handful of basic AI Models in PyTorch for Checkers, Chess, Othello and Pong. Also creating a basic website to host these models.
+- [**AI & Solutions**](https://github.com/AI-and-Solutions) - Creating a handful of basic AI Models in PyTorch for Checkers, Chess, Othello and Pong. Also creating a basic website to host these models.
 - **Ecotopia** - Created a basic Twitter-esc Website for Envirmental Enthusiasts in ITWS 1100 (Intro to ITWS)
-- **LCOS (Lethal Company Open Source)** - Creating Mods for the game Lethal Company. Currently sitting at around 70k downloads, with my mods being responsible for roughly 30k of them.
+- [**LCOS (Lethal Company Open Source)**](https://github.com/LCOS-Lethal-Company-Open-Source) - Creating Mods for the game Lethal Company. Currently sitting at around 70k downloads, with my mods being responsible for roughly 30k of them.
 
 Feel free to explore my repositories to learn more about my work!
 
