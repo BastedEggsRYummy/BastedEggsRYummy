@@ -5,8 +5,8 @@ Hey there!! I'm Jackson Baimel, A sophmore Computer Science & ITWS (Information 
 ## About me 👨‍🦱
 - **Name:** Jackson Baimel
 - **Education:** Sophmore CS & ITWS student at Rensselaer Polytechnic Institute.
-- **GPA:** 3.48
-- **In-Major GPA (CS+ITWS Classes):** 3.83
+- **GPA:** 3.52
+- **In-Major GPA (CS+ITWS Classes):** 3.79
 - **Experience:**
   1. Newtown Forest Association (June 2024 - Present) - Utilizing Expo (An offshoot of React Native) and Cloud Firestore to create an inventory and property managament tool. Looking to release onto the app store this coming Spring.
   2. REI Technology (April 2021 - October 2021) - Led product research and development on how REI could use Azure's virtual machines within a virtual desktop infrastructure.
