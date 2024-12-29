@@ -18,9 +18,9 @@ Hey there!! I'm Jackson Baimel, A sophmore Computer Science & ITWS (Information 
 
 ## Projects 💻
 - **RECS (Rensselaer Electronic Calandar System)** - Working in a small group to create a calandar system for RPI clubs and organizations.
-- **Fresh n' Clean** - Creating a Uber-for-laundry service via a web app. Creating with a 6 person group for ITWS 2100 (Web Systems Development)
+- [**Fresh n' Clean**](https://github.com/BastedEggsRYummy/ITWS2100-FreshNClean) - Creating a Uber-for-laundry service via a web app. Creating with a 6 person group for ITWS 2100 (Web Systems Development)
 - [**AI & Solutions**](https://github.com/AI-and-Solutions) - Creating a handful of basic AI Models in PyTorch for Checkers, Chess, Othello and Pong. Also creating a basic website to host these models.
-- **Ecotopia** - Created a basic Twitter-esc Website for Environmental Enthusiasts in ITWS 1100 (Intro to ITWS)
+- [**Ecotopia**](https://github.com/BastedEggsRYummy/ITWS1100-Ecotopia) - Created a basic Twitter-esc Website for Environmental Enthusiasts in ITWS 1100 (Intro to ITWS)
 - [**LCOS (Lethal Company Open Source)**](https://github.com/LCOS-Lethal-Company-Open-Source) - Creating Mods for the game Lethal Company. Currently sitting at around 70k downloads, with my mods being responsible for roughly 30k of them.
 
 Feel free to explore my repositories to learn more about my work!
